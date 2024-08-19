@@ -3,7 +3,7 @@ frontend:
   phases:
     preBuild:
       commands:
-        - cd my-nextjs.app
+        - cd my-nextjs-app
         - npm install
     build:
       commands:
